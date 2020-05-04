@@ -2,6 +2,8 @@
 Welcome to PyQtNodeEditor
 ==========================
 
+Original Repository: https://gitlab.com/pavel.krupala/pyqt-node-editor
+
 .. image:: https://badge.fury.io/py/nodeeditor.svg
     :target: https://badge.fury.io/py/nodeeditor
 
